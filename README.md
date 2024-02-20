@@ -1,2 +1,2 @@
 # SpringCore
-SetterInjection
+
